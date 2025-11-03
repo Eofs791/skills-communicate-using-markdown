@@ -10,3 +10,7 @@
 ```java
 System.out.println("Hello, world.");
 ```
+
+- [x] Understanding Markdown
+- [] Intro to GitHub
+- [] Intro to Open Source
