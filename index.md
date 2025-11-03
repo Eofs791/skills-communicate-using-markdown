@@ -12,6 +12,7 @@ System.out.println("Miao!");
 ```
 
 - [x] Miao?
-- [] Miao, Miao?
-- [] Miao, Miao, Miao?
+- [ ] Miao, Miao?
+- [ ] Miao, Miao, Miao?
+
 
